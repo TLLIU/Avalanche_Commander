@@ -13,8 +13,8 @@ public class Main {
     }
    public func();
     
-
    public func3();
+   public func2();
 }
 
 
